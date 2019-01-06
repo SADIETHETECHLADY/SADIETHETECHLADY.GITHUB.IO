@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 54px;
+  font-family: Lato, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #444444;
+  padding: 54px;
+  max-width: 720px;
+  margin: 0 auto;
+  border-left: 6px solid #e2231a;
+}
+
+/* Styles other page elements below */
+.header {
+
+}
+#link {color: #dddddd;}
+
+/* mouse over link */
+a:hover {
+  color: greenyellow;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+h1 {font: Lato; 
+  color: red;
+  font-weight: 200;}
+h6 {align: right; padding-bottom: 25px;
+  border-bottom: 2px solid grey; 
+}
+.second-image {width: 96%;}
+img {width: 96%; height: 400px; }
+h1 {border-bottom: 0px;}
+h4 {border-top: 0px;}
+nav {text-decoration: none;
+}
